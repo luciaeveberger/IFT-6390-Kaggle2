@@ -2,15 +2,26 @@
 
 Instructions: 
 
-For Naive Bayes and Logistic Regression:
+# The Methods are Split by jupyter notebook and corresponding py files 
 
-To see results of hyperparameter tuning, run ift6390_kaggle_2-naive_bayes_and_logreg_tuning.py.
+### For Naive Bayes and Logistic Regression:
 
-To get predictions of tuned Naive Bayes and Logistic Regression models, run ift6390_kaggle_2-naive_bayes_and_logreg_final.py.
+To see results of hyperparameter tuning, run `ift6390_kaggle_2-naive_bayes_and_logreg_tuning.py`.
 
-For basic neural network:
+To get predictions of tuned Naive Bayes and Logistic Regression models, run `ift6390_kaggle_2-naive_bayes_and_logreg_final.py`.
 
-Import basic_nn_Kaggle_2_ML.ipynb to Google Colab and mount associated data, then run all cells.
+### For basic neural network:
+
+Import `basic_nn_Kaggle_2_ML.ipynb` to Google Colab and mount associated data, then run all cells.
+
+### For SVM: 
+Import ift6390_kaggle_2-BiLSTM_BestPredictions.ipynb and mount associated data and rull cells. 
+This can also be run as a python script: `ift6390_kaggle_2_SVM Method and Other.py`
+
+### For biLSTM + Conformer
+
+Import ift6390_kaggle_2-BiLSTM_BestPredictions.ipynb and mount associated data and rull cells. 
+This can also be run: `ift6390_kaggle_2-bilstm_bestpredictions.py`.
 
 For explainability:
 
