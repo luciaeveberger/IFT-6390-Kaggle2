@@ -14,7 +14,8 @@ To get predictions of tuned Naive Bayes and Logistic Regression models, run `cod
 
 ### For basic neural network:
 
-Import `code/basic_nn_Kaggle_2_ML.ipynb` to Google Colab and mount associated data, then run all cells.
+Import `code/ift6390_kaggle_2basic_nn_Kaggle_2_ML.ipynb` to Google Colab and mount associated data, then run all cells.
+To get predictions, run `code/ift6390_kaggle_2_basic_nn_Kaggle_2_ML.py`.
 
 ### For SVM: 
 Import `code/ift6390_kaggle_2-BiLSTM_BestPredictions.ipynb` and mount associated data and rull cells. 
