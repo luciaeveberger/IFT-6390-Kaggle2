@@ -2,7 +2,9 @@
 
 Instructions: 
 
-# The Methods are split by jupyter notebook and corresponding py files 
+# Kaggle Code: 
+
+The Methods are split by jupyter notebook and corresponding py files 
 
 ### For Naive Bayes and Logistic Regression:
 
@@ -25,7 +27,7 @@ This can also be run: `code/ift6390_kaggle_2-bilstm_bestpredictions.py`.
 
 # For explainability:
 
-Run all cells in explainability.ipynb. Github will not render this larger file. Please load it:
+Run all cells in `Explainability_Final.ipynb`. Github will not render this larger file. Please load it:
 
 https://colab.research.google.com/drive/1-t6KJ4lgLA38DR8HN6lLPGQ7zO4Ca-ja?usp=sharing#scrollTo=7d92f198
 
