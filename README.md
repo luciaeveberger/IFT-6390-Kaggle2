@@ -2,7 +2,7 @@
 
 Instructions: 
 
-# The Methods are Split by jupyter notebook and corresponding py files 
+# The Methods are split by jupyter notebook and corresponding py files 
 
 ### For Naive Bayes and Logistic Regression:
 
@@ -23,8 +23,8 @@ This can also be run as a python script: `code/ift6390_kaggle_2_SVM Method and O
 Import `code/ift6390_kaggle_2-BiLSTM_BestPredictions.ipynb` and mount associated data and rull cells. 
 This can also be run: `code/ift6390_kaggle_2-bilstm_bestpredictions.py`.
 
-For explainability:
+# For explainability:
 
-Run all cells in explainability.ipynb.
+Run all cells in explainability.ipynb. Github will not render this larger file. Please load it:
 
 https://nbviewer.org/github/luciaeveberger/IFT-6390-Kaggle2/blob/main/Explainability.ipynb
