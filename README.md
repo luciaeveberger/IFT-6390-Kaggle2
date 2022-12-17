@@ -27,4 +27,5 @@ This can also be run: `code/ift6390_kaggle_2-bilstm_bestpredictions.py`.
 
 Run all cells in explainability.ipynb. Github will not render this larger file. Please load it:
 
-https://nbviewer.org/github/luciaeveberger/IFT-6390-Kaggle2/blob/main/Explainability.ipynb
+https://colab.research.google.com/drive/1-t6KJ4lgLA38DR8HN6lLPGQ7zO4Ca-ja?usp=sharing#scrollTo=7d92f198
+
